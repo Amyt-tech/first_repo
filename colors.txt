@@ -2,3 +2,4 @@ Red
 Indigo 
 Blue
 Green
+Aquamarine
