@@ -1,0 +1,16 @@
+
+# cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData#concept.label = myData
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.MyData(double,double,double)#phrase.navigation = a new {myData} where {0, firstNumber} {1, result} {2, secondNumber}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.firstNumber#phrase.action = set the firstNumber of {this} to {firstNumber}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.firstNumber#phrase.addition_setter = add {firstNumber} to the firstNumber of {this}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.firstNumber#phrase.navigation = {firstNumber} of {this}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.firstNumber#phrase.subtraction_setter = subtract {firstNumber} from the firstNumber of {this}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.result#phrase.action = set the result of {this} to {result}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.result#phrase.addition_setter = add {result} to the result of {this}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.result#phrase.navigation = {result} of {this}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.result#phrase.subtraction_setter = subtract {result} from the result of {this}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.secondNumber#phrase.action = set the secondNumber of {this} to {secondNumber}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.secondNumber#phrase.addition_setter = add {secondNumber} to the secondNumber of {this}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.secondNumber#phrase.navigation = {secondNumber} of {this}
+cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData.secondNumber#phrase.subtraction_setter = subtract {secondNumber} from the secondNumber of {this}

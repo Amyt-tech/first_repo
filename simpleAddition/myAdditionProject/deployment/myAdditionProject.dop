@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="myAdditionProject" usingRuleflow="true" ruleflowName="mainFlow" targetRuleProjectName="myAdditionProject">
+  <name>myAdditionProject</name>
+  <uuid>9011d0e3-fb85-43cb-9489-68cf52724fbd</uuid>
+  <referencedVariables variableName="myDataVar" variableSetName="New variable set" direction="IN_OUT">
+    <variableSet href="../rules/New%20variable%20set.var#cfd55c70-1d03-411a-a882-e8e47069aeba"/>
+  </referencedVariables>
+  <ruleflow href="../rules/mainFlow.rfl#424a92a5-5b2f-4192-aba6-bbf08ff59008"/>
+  <targetRuleProject href="../../myAdditionProject#d7e28aac-bf5a-4db9-ab90-63c3039c7b80"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["myAdditionProject_myAdditionProject"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
+</com.ibm.rules.studio.model.decisionservice:Operation>

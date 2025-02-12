@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.base:VariableSet xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore" language="ARL">
+  <name>New variable set</name>
+  <uuid>cfd55c70-1d03-411a-a882-e8e47069aeba</uuid>
+  <variables name="myDataVar" type="cpadmin.hands_on_tutorial.simpleaddition.mydatamodel.MyData" initialValue="" verbalization="the Data" jsonName=""/>
+</ilog.rules.studio.model.base:VariableSet>
